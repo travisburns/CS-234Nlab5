@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+/**State **/
 namespace MMABooksEFClasses.Models
 {
     public partial class State
